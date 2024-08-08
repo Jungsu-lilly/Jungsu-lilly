@@ -2,9 +2,9 @@
 
 #### BackEnd Developer
 #### 🌱 현재 운영중인 서비스 
-👉 [플리커](https://a.simple-sns.link)
+- 👉 [플리커](https://a.simple-sns.link)
 
-☘️ [Picky](https://www.picky-pick.com)
+- ☘️ [Picky](https://www.picky-pick.com)
 
 
 #### Contact Me
