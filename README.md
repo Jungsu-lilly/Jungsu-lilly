@@ -1,9 +1,14 @@
+<div align="center">
+  
 ## Hi there 👋
 
 #### BackEnd Developer
 #### 🌱 현재 운영중인 서비스 
-- 👉 [플리커](https://a.simple-sns.link)
-- ☘️ [Picky](https://www.picky-pick.com)
+👉 [플리커](https://a.simple-sns.link)
+
+☘️ [Picky](https://www.picky-pick.com)
+
+</div>
   
 <p align="center">
     <a href="https://your-portfolio-link.com" target="_blank">
