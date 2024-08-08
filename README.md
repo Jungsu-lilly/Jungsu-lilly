@@ -15,7 +15,7 @@
     <a href="https://matt1235.tistory.com" target="_blank">
         <img src="https://img.shields.io/badge/Tech%20blog-000000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="mailto:gkwjdtn1235@gmail.com" target="_blank">
+    <a href="mailto:gkwjdtn1235@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
