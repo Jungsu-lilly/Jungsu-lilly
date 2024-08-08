@@ -1,5 +1,3 @@
-<div align="center">
-  
 ## Hi there 👋
 
 #### BackEnd Developer
@@ -8,9 +6,9 @@
 
 ☘️ [Picky](https://www.picky-pick.com)
 
-</div>
-  
-<p align="center">
+
+#### Contact Me
+<p>
     <a href="https://your-portfolio-link.com" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-6495ED?style=for-the-badge&logo=read-the-docs&logoColor=white" />
     </a>
