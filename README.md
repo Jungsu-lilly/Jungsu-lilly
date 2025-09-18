@@ -4,9 +4,6 @@
 #### 🌱 현재 운영중인 서비스 
 - 👉 [플리커](https://a.simple-sns.link)
 
-- ☘️ [Picky](https://www.picky-pick.com)
-
-
 #### Contact Me
 <p>
     <a href="https://docs.google.com/document/d/1qX3GO9tdmLur7JiQg0Uyfrm_AYz_Sfy3YzSz-bV8FP8" target="_blank">
